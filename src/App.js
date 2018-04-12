@@ -12,7 +12,7 @@ class App extends Component {
        <h1>Welcome to React1</h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+          edit src/app
         </p>
       </div>
     );
